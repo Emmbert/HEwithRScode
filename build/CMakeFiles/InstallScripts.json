@@ -1,8 +1,0 @@
-{
-	"InstallScripts" : 
-	[
-		"/Users/emma/Desktop/HEandECC/HEwithRScodes/build/cmake_install.cmake",
-		"/Users/emma/Desktop/HEandECC/HEwithRScodes/build/tests/cmake_install.cmake"
-	],
-	"Parallel" : false
-}

@@ -1,2 +1,0 @@
-/usr/bin/ar qc libnoise_sim.a CMakeFiles/noise_sim.dir/src/noise_simulations/crypto_context.cpp.o CMakeFiles/noise_sim.dir/src/noise_simulations/encryption.cpp.o CMakeFiles/noise_sim.dir/src/noise_simulations/noise_experiment.cpp.o CMakeFiles/noise_sim.dir/src/noise_simulations/multiplication_experiment.cpp.o CMakeFiles/noise_sim.dir/src/noise_simulations/noise_growth_experiment.cpp.o CMakeFiles/noise_sim.dir/src/noise_simulations/param_sweep.cpp.o
-/usr/bin/ranlib libnoise_sim.a

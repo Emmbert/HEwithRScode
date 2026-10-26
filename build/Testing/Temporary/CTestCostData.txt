@@ -1,9 +1,0 @@
-test_field 6 0.000231611
-test_rs_code 6 0.000547882
-test_welch_berlekamp 6 0.0530849
-test_welch_berlekamp_n4096 6 0.572885
-rs_bench_smoke 6 0.000842833
-test_poly_fast 6 0.0555165
-test_fast_gcd 6 0.0161513
-test_fast_gcd_n4096 6 0.0779378
----

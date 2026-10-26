@@ -1,1 +1,0 @@
-/usr/bin/c++ -O3 -DNDEBUG -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/test_rs_code.dir/test_rs_code.cpp.o -o test_rs_code  ../librs_decoders.a ../librs_harness.a ../librs_core.a
