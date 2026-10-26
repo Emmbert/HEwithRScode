@@ -1,0 +1,2 @@
+/usr/bin/ar qc librs_core.a CMakeFiles/rs_core.dir/src/rs/core/field.cpp.o CMakeFiles/rs_core.dir/src/rs/core/rs_code.cpp.o CMakeFiles/rs_core.dir/src/rs/core/poly_fast.cpp.o CMakeFiles/rs_core.dir/src/rs/channel.cpp.o
+/usr/bin/ranlib librs_core.a

@@ -1,0 +1,4 @@
+p,n,k,decoder,channel,trials,success,failure,miscorrection,mean_us,median_us,max_us
+40961,4096,3072,"Welch-Berlekamp",e=512,50,50,0,0,89406.6,89151.1,95434.9
+40961,4096,3072,"Welch-Berlekamp",e=513,50,0,50,0,89188.9,89133.8,90046.4
+40961,4096,3072,"Welch-Berlekamp",sigma=0.200,50,50,0,0,85477.5,84947.9,101447

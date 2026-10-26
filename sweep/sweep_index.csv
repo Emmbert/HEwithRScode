@@ -1,0 +1,6 @@
+id,label,status,ringDim,log2Q,numTowers,sigma,plaintextModulus,multDepth,firstModSize,scalingModSize,secure,modReduce,numChains,maxMults,growthFile,histFile
+p00,"n=auto depth=10 sigma=3.19 p=65537",ok,32768,494.8,11,3.19,65537,10,0,0,1,0,10,40,p00_growth.csv,p00_hist.csv
+p01,"n=16384 depth=3 sigma=3.19 p=65537",ok,16384,180.0,4,3.19,65537,3,0,0,1,0,10,40,p01_growth.csv,p01_hist.csv
+p02,"n=4096 depth=2 sigma=3.19 p=65537 (insecure)",ok,4096,135.0,3,3.19,65537,2,0,0,0,0,10,40,p02_growth.csv,p02_hist.csv
+p03,"n=4096 depth=2 sigma=50 p=65537 (insecure)",ok,4096,135.0,3,50,65537,2,0,0,0,0,10,40,p03_growth.csv,p03_hist.csv
+p04,"n=4096 depth=2 sigma=3.19 p=257 (insecure)",ok,4096,111.0,3,3.19,257,2,0,0,0,0,10,40,p04_growth.csv,p04_hist.csv

@@ -1,0 +1,7 @@
+p,n,k,decoder,channel,trials,success,failure,miscorrection,mean_us,median_us,max_us
+40961,4096,3072,"Welch-Berlekamp",e=512,50,50,0,0,89791,89124.5,108203
+40961,4096,3072,"Gao (fast Half-GCD)",e=512,50,50,0,0,6776.83,6749.38,7180.75
+40961,4096,3072,"Welch-Berlekamp",e=513,50,0,50,0,89252.3,89042.5,91920.4
+40961,4096,3072,"Gao (fast Half-GCD)",e=513,50,0,50,0,6750.6,6731.75,7121.58
+40961,4096,3072,"Welch-Berlekamp",sigma=0.200,50,50,0,0,84813.4,84706.8,85849.8
+40961,4096,3072,"Gao (fast Half-GCD)",sigma=0.200,50,50,0,0,4700.09,4699.83,5038.88

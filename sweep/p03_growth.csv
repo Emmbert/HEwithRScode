@@ -1,0 +1,68 @@
+# ringDimension=4096
+# plaintextModulus=65537
+# log2Q=135
+# sigma=50
+# packing=COEFFICIENT
+experiment,chain,step,op,numAdds,numMults,towers,log2MaxNoise,log2RmsNoise,log2Threshold,wrapped,correct
+n=4096 depth=2 sigma=50 p=65537 (insecure),0,0,fresh,0,0,3,7.49185,5.6352,117.998,0,1
+n=4096 depth=2 sigma=50 p=65537 (insecure),0,1,mult,0,1,3,35.1598,33.2754,117.998,0,1
+n=4096 depth=2 sigma=50 p=65537 (insecure),0,2,mult,0,2,3,62.8102,60.9034,117.998,0,1
+n=4096 depth=2 sigma=50 p=65537 (insecure),0,3,mult,0,3,3,90.4584,88.5812,117.998,0,1
+n=4096 depth=2 sigma=50 p=65537 (insecure),0,4,mult,0,4,3,117.998,116.111,117.998,2,1
+n=4096 depth=2 sigma=50 p=65537 (insecure),0,5,mult,0,5,3,117.998,0,117.998,4096,0
+n=4096 depth=2 sigma=50 p=65537 (insecure),1,0,fresh,0,0,3,7.71425,5.6469,117.998,0,1
+n=4096 depth=2 sigma=50 p=65537 (insecure),1,1,mult,0,1,3,35.2561,33.2752,117.998,0,1
+n=4096 depth=2 sigma=50 p=65537 (insecure),1,2,mult,0,2,3,62.7881,60.9593,117.998,0,1
+n=4096 depth=2 sigma=50 p=65537 (insecure),1,3,mult,0,3,3,90.5338,88.5982,117.998,0,1
+n=4096 depth=2 sigma=50 p=65537 (insecure),1,4,mult,0,4,3,117.998,116.292,117.998,4,1
+n=4096 depth=2 sigma=50 p=65537 (insecure),1,5,mult,0,5,3,117.998,116.578,117.998,4095,0
+n=4096 depth=2 sigma=50 p=65537 (insecure),2,0,fresh,0,0,3,7.61471,5.64902,117.998,0,1
+n=4096 depth=2 sigma=50 p=65537 (insecure),2,1,mult,0,1,3,35.0609,33.2715,117.998,0,1
+n=4096 depth=2 sigma=50 p=65537 (insecure),2,2,mult,0,2,3,62.7481,60.9114,117.998,0,1
+n=4096 depth=2 sigma=50 p=65537 (insecure),2,3,mult,0,3,3,90.3977,88.5119,117.998,0,1
+n=4096 depth=2 sigma=50 p=65537 (insecure),2,4,mult,0,4,3,117.886,116.118,117.998,0,1
+n=4096 depth=2 sigma=50 p=65537 (insecure),2,5,mult,0,5,3,117.998,0,117.998,4096,0
+n=4096 depth=2 sigma=50 p=65537 (insecure),2,6,mult,0,6,3,117.998,0,117.998,4096,0
+n=4096 depth=2 sigma=50 p=65537 (insecure),3,0,fresh,0,0,3,7.5157,5.67444,117.998,0,1
+n=4096 depth=2 sigma=50 p=65537 (insecure),3,1,mult,0,1,3,35.1835,33.303,117.998,0,1
+n=4096 depth=2 sigma=50 p=65537 (insecure),3,2,mult,0,2,3,62.6581,60.9295,117.998,0,1
+n=4096 depth=2 sigma=50 p=65537 (insecure),3,3,mult,0,3,3,90.3466,88.5711,117.998,0,1
+n=4096 depth=2 sigma=50 p=65537 (insecure),3,4,mult,0,4,3,117.946,116.202,117.998,0,1
+n=4096 depth=2 sigma=50 p=65537 (insecure),3,5,mult,0,5,3,117.998,0,117.998,4096,0
+n=4096 depth=2 sigma=50 p=65537 (insecure),3,6,mult,0,6,3,117.998,0,117.998,4096,0
+n=4096 depth=2 sigma=50 p=65537 (insecure),4,0,fresh,0,0,3,7.47573,5.63333,117.998,0,1
+n=4096 depth=2 sigma=50 p=65537 (insecure),4,1,mult,0,1,3,35.1758,33.2626,117.998,0,1
+n=4096 depth=2 sigma=50 p=65537 (insecure),4,2,mult,0,2,3,62.7701,60.9282,117.998,0,1
+n=4096 depth=2 sigma=50 p=65537 (insecure),4,3,mult,0,3,3,90.5227,88.6213,117.998,0,1
+n=4096 depth=2 sigma=50 p=65537 (insecure),4,4,mult,0,4,3,117.998,116.34,117.998,2,1
+n=4096 depth=2 sigma=50 p=65537 (insecure),4,5,mult,0,5,3,117.998,0,117.998,4096,0
+n=4096 depth=2 sigma=50 p=65537 (insecure),5,0,fresh,0,0,3,7.74819,5.62823,117.998,0,1
+n=4096 depth=2 sigma=50 p=65537 (insecure),5,1,mult,0,1,3,35.0462,33.2869,117.998,0,1
+n=4096 depth=2 sigma=50 p=65537 (insecure),5,2,mult,0,2,3,62.7598,60.964,117.998,0,1
+n=4096 depth=2 sigma=50 p=65537 (insecure),5,3,mult,0,3,3,90.3881,88.5906,117.998,0,1
+n=4096 depth=2 sigma=50 p=65537 (insecure),5,4,mult,0,4,3,117.998,116.226,117.998,5,1
+n=4096 depth=2 sigma=50 p=65537 (insecure),5,5,mult,0,5,3,117.998,0,117.998,4096,0
+n=4096 depth=2 sigma=50 p=65537 (insecure),6,0,fresh,0,0,3,7.45943,5.65349,117.998,0,1
+n=4096 depth=2 sigma=50 p=65537 (insecure),6,1,mult,0,1,3,35.2232,33.3083,117.998,0,1
+n=4096 depth=2 sigma=50 p=65537 (insecure),6,2,mult,0,2,3,63.1797,61.0089,117.998,0,1
+n=4096 depth=2 sigma=50 p=65537 (insecure),6,3,mult,0,3,3,90.7457,88.7422,117.998,0,1
+n=4096 depth=2 sigma=50 p=65537 (insecure),6,4,mult,0,4,3,117.998,116.343,117.998,9,1
+n=4096 depth=2 sigma=50 p=65537 (insecure),6,5,mult,0,5,3,117.998,0,117.998,4096,0
+n=4096 depth=2 sigma=50 p=65537 (insecure),7,0,fresh,0,0,3,7.58496,5.63285,117.998,0,1
+n=4096 depth=2 sigma=50 p=65537 (insecure),7,1,mult,0,1,3,35.115,33.282,117.998,0,1
+n=4096 depth=2 sigma=50 p=65537 (insecure),7,2,mult,0,2,3,63.0915,60.9612,117.998,0,1
+n=4096 depth=2 sigma=50 p=65537 (insecure),7,3,mult,0,3,3,90.5351,88.5819,117.998,0,1
+n=4096 depth=2 sigma=50 p=65537 (insecure),7,4,mult,0,4,3,117.998,116.291,117.998,1,1
+n=4096 depth=2 sigma=50 p=65537 (insecure),7,5,mult,0,5,3,117.998,0,117.998,4096,0
+n=4096 depth=2 sigma=50 p=65537 (insecure),8,0,fresh,0,0,3,7.50779,5.67804,117.998,0,1
+n=4096 depth=2 sigma=50 p=65537 (insecure),8,1,mult,0,1,3,35.1869,33.3164,117.998,0,1
+n=4096 depth=2 sigma=50 p=65537 (insecure),8,2,mult,0,2,3,62.9655,60.932,117.998,0,1
+n=4096 depth=2 sigma=50 p=65537 (insecure),8,3,mult,0,3,3,90.4235,88.5601,117.998,0,1
+n=4096 depth=2 sigma=50 p=65537 (insecure),8,4,mult,0,4,3,117.998,116.255,117.998,1,1
+n=4096 depth=2 sigma=50 p=65537 (insecure),8,5,mult,0,5,3,117.998,0,117.998,4096,0
+n=4096 depth=2 sigma=50 p=65537 (insecure),9,0,fresh,0,0,3,7.53138,5.65063,117.998,0,1
+n=4096 depth=2 sigma=50 p=65537 (insecure),9,1,mult,0,1,3,35.1109,33.2795,117.998,0,1
+n=4096 depth=2 sigma=50 p=65537 (insecure),9,2,mult,0,2,3,62.8975,60.893,117.998,0,1
+n=4096 depth=2 sigma=50 p=65537 (insecure),9,3,mult,0,3,3,90.4117,88.5496,117.998,0,1
+n=4096 depth=2 sigma=50 p=65537 (insecure),9,4,mult,0,4,3,117.998,116.241,117.998,5,1
+n=4096 depth=2 sigma=50 p=65537 (insecure),9,5,mult,0,5,3,117.998,0,117.998,4096,0

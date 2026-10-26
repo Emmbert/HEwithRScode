@@ -1,0 +1,3 @@
+id,label,status,ringDim,log2Q,numTowers,sigma,plaintextModulus,multDepth,firstModSize,scalingModSize,secure,modReduce,numChains,maxMults,growthFile,histFile,numLargeDigits,log2P
+p00,"calib n=16384 sigma=3.19 p=65537",ok,16384,229.0,4,3.19,65537,3,55,58,0,0,10,5,p00_growth.csv,p00_hist.csv,2,120.0
+p01,"calib n=32768 sigma=3.19 p=65537",ok,32768,234.0,4,3.19,65537,3,57,59,0,0,10,5,p01_growth.csv,p01_hist.csv,2,180.0

@@ -1,0 +1,2 @@
+/usr/bin/ar qc librs_harness.a CMakeFiles/rs_harness.dir/src/rs/harness/decoder_test.cpp.o CMakeFiles/rs_harness.dir/src/rs/harness/benchmark.cpp.o
+/usr/bin/ranlib librs_harness.a

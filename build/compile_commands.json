@@ -1,0 +1,134 @@
+[
+{
+  "directory": "/Users/emma/Desktop/HEandECC/HEwithRScodes/build",
+  "command": "/usr/bin/c++  -I/Users/emma/Desktop/HEandECC/HEwithRScodes/include -O3 -DNDEBUG -std=c++17 -arch arm64 -Wall -Wextra -o CMakeFiles/rs_core.dir/src/rs/core/field.cpp.o -c /Users/emma/Desktop/HEandECC/HEwithRScodes/src/rs/core/field.cpp",
+  "file": "/Users/emma/Desktop/HEandECC/HEwithRScodes/src/rs/core/field.cpp",
+  "output": "CMakeFiles/rs_core.dir/src/rs/core/field.cpp.o"
+},
+{
+  "directory": "/Users/emma/Desktop/HEandECC/HEwithRScodes/build",
+  "command": "/usr/bin/c++  -I/Users/emma/Desktop/HEandECC/HEwithRScodes/include -O3 -DNDEBUG -std=c++17 -arch arm64 -Wall -Wextra -o CMakeFiles/rs_core.dir/src/rs/core/rs_code.cpp.o -c /Users/emma/Desktop/HEandECC/HEwithRScodes/src/rs/core/rs_code.cpp",
+  "file": "/Users/emma/Desktop/HEandECC/HEwithRScodes/src/rs/core/rs_code.cpp",
+  "output": "CMakeFiles/rs_core.dir/src/rs/core/rs_code.cpp.o"
+},
+{
+  "directory": "/Users/emma/Desktop/HEandECC/HEwithRScodes/build",
+  "command": "/usr/bin/c++  -I/Users/emma/Desktop/HEandECC/HEwithRScodes/include -O3 -DNDEBUG -std=c++17 -arch arm64 -Wall -Wextra -o CMakeFiles/rs_core.dir/src/rs/core/poly_fast.cpp.o -c /Users/emma/Desktop/HEandECC/HEwithRScodes/src/rs/core/poly_fast.cpp",
+  "file": "/Users/emma/Desktop/HEandECC/HEwithRScodes/src/rs/core/poly_fast.cpp",
+  "output": "CMakeFiles/rs_core.dir/src/rs/core/poly_fast.cpp.o"
+},
+{
+  "directory": "/Users/emma/Desktop/HEandECC/HEwithRScodes/build",
+  "command": "/usr/bin/c++  -I/Users/emma/Desktop/HEandECC/HEwithRScodes/include -O3 -DNDEBUG -std=c++17 -arch arm64 -Wall -Wextra -o CMakeFiles/rs_core.dir/src/rs/channel.cpp.o -c /Users/emma/Desktop/HEandECC/HEwithRScodes/src/rs/channel.cpp",
+  "file": "/Users/emma/Desktop/HEandECC/HEwithRScodes/src/rs/channel.cpp",
+  "output": "CMakeFiles/rs_core.dir/src/rs/channel.cpp.o"
+},
+{
+  "directory": "/Users/emma/Desktop/HEandECC/HEwithRScodes/build",
+  "command": "/usr/bin/c++  -I/Users/emma/Desktop/HEandECC/HEwithRScodes/include -O3 -DNDEBUG -std=c++17 -arch arm64 -Wall -Wextra -o CMakeFiles/rs_decoders.dir/src/rs/decoders/welch_berlekamp.cpp.o -c /Users/emma/Desktop/HEandECC/HEwithRScodes/src/rs/decoders/welch_berlekamp.cpp",
+  "file": "/Users/emma/Desktop/HEandECC/HEwithRScodes/src/rs/decoders/welch_berlekamp.cpp",
+  "output": "CMakeFiles/rs_decoders.dir/src/rs/decoders/welch_berlekamp.cpp.o"
+},
+{
+  "directory": "/Users/emma/Desktop/HEandECC/HEwithRScodes/build",
+  "command": "/usr/bin/c++  -I/Users/emma/Desktop/HEandECC/HEwithRScodes/include -O3 -DNDEBUG -std=c++17 -arch arm64 -Wall -Wextra -o CMakeFiles/rs_decoders.dir/src/rs/decoders/fast_gcd.cpp.o -c /Users/emma/Desktop/HEandECC/HEwithRScodes/src/rs/decoders/fast_gcd.cpp",
+  "file": "/Users/emma/Desktop/HEandECC/HEwithRScodes/src/rs/decoders/fast_gcd.cpp",
+  "output": "CMakeFiles/rs_decoders.dir/src/rs/decoders/fast_gcd.cpp.o"
+},
+{
+  "directory": "/Users/emma/Desktop/HEandECC/HEwithRScodes/build",
+  "command": "/usr/bin/c++  -I/Users/emma/Desktop/HEandECC/HEwithRScodes/include -O3 -DNDEBUG -std=c++17 -arch arm64 -Wall -Wextra -o CMakeFiles/rs_decoders.dir/src/rs/decoders/registry.cpp.o -c /Users/emma/Desktop/HEandECC/HEwithRScodes/src/rs/decoders/registry.cpp",
+  "file": "/Users/emma/Desktop/HEandECC/HEwithRScodes/src/rs/decoders/registry.cpp",
+  "output": "CMakeFiles/rs_decoders.dir/src/rs/decoders/registry.cpp.o"
+},
+{
+  "directory": "/Users/emma/Desktop/HEandECC/HEwithRScodes/build",
+  "command": "/usr/bin/c++  -I/Users/emma/Desktop/HEandECC/HEwithRScodes/include -O3 -DNDEBUG -std=c++17 -arch arm64 -Wall -Wextra -o CMakeFiles/rs_harness.dir/src/rs/harness/decoder_test.cpp.o -c /Users/emma/Desktop/HEandECC/HEwithRScodes/src/rs/harness/decoder_test.cpp",
+  "file": "/Users/emma/Desktop/HEandECC/HEwithRScodes/src/rs/harness/decoder_test.cpp",
+  "output": "CMakeFiles/rs_harness.dir/src/rs/harness/decoder_test.cpp.o"
+},
+{
+  "directory": "/Users/emma/Desktop/HEandECC/HEwithRScodes/build",
+  "command": "/usr/bin/c++  -I/Users/emma/Desktop/HEandECC/HEwithRScodes/include -O3 -DNDEBUG -std=c++17 -arch arm64 -Wall -Wextra -o CMakeFiles/rs_harness.dir/src/rs/harness/benchmark.cpp.o -c /Users/emma/Desktop/HEandECC/HEwithRScodes/src/rs/harness/benchmark.cpp",
+  "file": "/Users/emma/Desktop/HEandECC/HEwithRScodes/src/rs/harness/benchmark.cpp",
+  "output": "CMakeFiles/rs_harness.dir/src/rs/harness/benchmark.cpp.o"
+},
+{
+  "directory": "/Users/emma/Desktop/HEandECC/HEwithRScodes/build",
+  "command": "/usr/bin/c++  -I/Users/emma/Desktop/HEandECC/HEwithRScodes/include -O3 -DNDEBUG -std=c++17 -arch arm64 -Wall -Wextra -o CMakeFiles/rs_bench.dir/apps/rs_bench.cpp.o -c /Users/emma/Desktop/HEandECC/HEwithRScodes/apps/rs_bench.cpp",
+  "file": "/Users/emma/Desktop/HEandECC/HEwithRScodes/apps/rs_bench.cpp",
+  "output": "CMakeFiles/rs_bench.dir/apps/rs_bench.cpp.o"
+},
+{
+  "directory": "/Users/emma/Desktop/HEandECC/HEwithRScodes/build",
+  "command": "/usr/bin/c++  -I/Users/emma/Desktop/HEandECC/HEwithRScodes/include -I/Users/emma/Desktop/HEandECC/HEwithRScodes/include/noise_simulations -isystem /opt/homebrew/opt/libomp/include -isystem /Users/emma/opt/openfhe-fork/include/openfhe -isystem /Users/emma/opt/openfhe-fork/include/openfhe/third-party/include -isystem /Users/emma/opt/openfhe-fork/include/openfhe/core -isystem /Users/emma/opt/openfhe-fork/include/openfhe/pke -isystem /Users/emma/opt/openfhe-fork/include/openfhe/binfhe -O3 -DNDEBUG -std=c++17 -arch arm64 -Wall -Werror -DOPENFHE_VERSION=1.6.0 -O3 -DMATHBACKEND=4 -Xpreprocessor -fopenmp -lomp -Wno-unused-command-line-argument -o CMakeFiles/noise_sim.dir/src/noise_simulations/crypto_context.cpp.o -c /Users/emma/Desktop/HEandECC/HEwithRScodes/src/noise_simulations/crypto_context.cpp",
+  "file": "/Users/emma/Desktop/HEandECC/HEwithRScodes/src/noise_simulations/crypto_context.cpp",
+  "output": "CMakeFiles/noise_sim.dir/src/noise_simulations/crypto_context.cpp.o"
+},
+{
+  "directory": "/Users/emma/Desktop/HEandECC/HEwithRScodes/build",
+  "command": "/usr/bin/c++  -I/Users/emma/Desktop/HEandECC/HEwithRScodes/include -I/Users/emma/Desktop/HEandECC/HEwithRScodes/include/noise_simulations -isystem /opt/homebrew/opt/libomp/include -isystem /Users/emma/opt/openfhe-fork/include/openfhe -isystem /Users/emma/opt/openfhe-fork/include/openfhe/third-party/include -isystem /Users/emma/opt/openfhe-fork/include/openfhe/core -isystem /Users/emma/opt/openfhe-fork/include/openfhe/pke -isystem /Users/emma/opt/openfhe-fork/include/openfhe/binfhe -O3 -DNDEBUG -std=c++17 -arch arm64 -Wall -Werror -DOPENFHE_VERSION=1.6.0 -O3 -DMATHBACKEND=4 -Xpreprocessor -fopenmp -lomp -Wno-unused-command-line-argument -o CMakeFiles/noise_sim.dir/src/noise_simulations/encryption.cpp.o -c /Users/emma/Desktop/HEandECC/HEwithRScodes/src/noise_simulations/encryption.cpp",
+  "file": "/Users/emma/Desktop/HEandECC/HEwithRScodes/src/noise_simulations/encryption.cpp",
+  "output": "CMakeFiles/noise_sim.dir/src/noise_simulations/encryption.cpp.o"
+},
+{
+  "directory": "/Users/emma/Desktop/HEandECC/HEwithRScodes/build",
+  "command": "/usr/bin/c++  -I/Users/emma/Desktop/HEandECC/HEwithRScodes/include -I/Users/emma/Desktop/HEandECC/HEwithRScodes/include/noise_simulations -isystem /opt/homebrew/opt/libomp/include -isystem /Users/emma/opt/openfhe-fork/include/openfhe -isystem /Users/emma/opt/openfhe-fork/include/openfhe/third-party/include -isystem /Users/emma/opt/openfhe-fork/include/openfhe/core -isystem /Users/emma/opt/openfhe-fork/include/openfhe/pke -isystem /Users/emma/opt/openfhe-fork/include/openfhe/binfhe -O3 -DNDEBUG -std=c++17 -arch arm64 -Wall -Werror -DOPENFHE_VERSION=1.6.0 -O3 -DMATHBACKEND=4 -Xpreprocessor -fopenmp -lomp -Wno-unused-command-line-argument -o CMakeFiles/noise_sim.dir/src/noise_simulations/noise_experiment.cpp.o -c /Users/emma/Desktop/HEandECC/HEwithRScodes/src/noise_simulations/noise_experiment.cpp",
+  "file": "/Users/emma/Desktop/HEandECC/HEwithRScodes/src/noise_simulations/noise_experiment.cpp",
+  "output": "CMakeFiles/noise_sim.dir/src/noise_simulations/noise_experiment.cpp.o"
+},
+{
+  "directory": "/Users/emma/Desktop/HEandECC/HEwithRScodes/build",
+  "command": "/usr/bin/c++  -I/Users/emma/Desktop/HEandECC/HEwithRScodes/include -I/Users/emma/Desktop/HEandECC/HEwithRScodes/include/noise_simulations -isystem /opt/homebrew/opt/libomp/include -isystem /Users/emma/opt/openfhe-fork/include/openfhe -isystem /Users/emma/opt/openfhe-fork/include/openfhe/third-party/include -isystem /Users/emma/opt/openfhe-fork/include/openfhe/core -isystem /Users/emma/opt/openfhe-fork/include/openfhe/pke -isystem /Users/emma/opt/openfhe-fork/include/openfhe/binfhe -O3 -DNDEBUG -std=c++17 -arch arm64 -Wall -Werror -DOPENFHE_VERSION=1.6.0 -O3 -DMATHBACKEND=4 -Xpreprocessor -fopenmp -lomp -Wno-unused-command-line-argument -o CMakeFiles/noise_sim.dir/src/noise_simulations/multiplication_experiment.cpp.o -c /Users/emma/Desktop/HEandECC/HEwithRScodes/src/noise_simulations/multiplication_experiment.cpp",
+  "file": "/Users/emma/Desktop/HEandECC/HEwithRScodes/src/noise_simulations/multiplication_experiment.cpp",
+  "output": "CMakeFiles/noise_sim.dir/src/noise_simulations/multiplication_experiment.cpp.o"
+},
+{
+  "directory": "/Users/emma/Desktop/HEandECC/HEwithRScodes/build",
+  "command": "/usr/bin/c++  -I/Users/emma/Desktop/HEandECC/HEwithRScodes/include -I/Users/emma/Desktop/HEandECC/HEwithRScodes/include/noise_simulations -isystem /opt/homebrew/opt/libomp/include -isystem /Users/emma/opt/openfhe-fork/include/openfhe -isystem /Users/emma/opt/openfhe-fork/include/openfhe/third-party/include -isystem /Users/emma/opt/openfhe-fork/include/openfhe/core -isystem /Users/emma/opt/openfhe-fork/include/openfhe/pke -isystem /Users/emma/opt/openfhe-fork/include/openfhe/binfhe -O3 -DNDEBUG -std=c++17 -arch arm64 -Wall -Werror -DOPENFHE_VERSION=1.6.0 -O3 -DMATHBACKEND=4 -Xpreprocessor -fopenmp -lomp -Wno-unused-command-line-argument -o CMakeFiles/noise_sim.dir/src/noise_simulations/noise_growth_experiment.cpp.o -c /Users/emma/Desktop/HEandECC/HEwithRScodes/src/noise_simulations/noise_growth_experiment.cpp",
+  "file": "/Users/emma/Desktop/HEandECC/HEwithRScodes/src/noise_simulations/noise_growth_experiment.cpp",
+  "output": "CMakeFiles/noise_sim.dir/src/noise_simulations/noise_growth_experiment.cpp.o"
+},
+{
+  "directory": "/Users/emma/Desktop/HEandECC/HEwithRScodes/build",
+  "command": "/usr/bin/c++  -I/Users/emma/Desktop/HEandECC/HEwithRScodes/include -I/Users/emma/Desktop/HEandECC/HEwithRScodes/include/noise_simulations -isystem /opt/homebrew/opt/libomp/include -isystem /Users/emma/opt/openfhe-fork/include/openfhe -isystem /Users/emma/opt/openfhe-fork/include/openfhe/third-party/include -isystem /Users/emma/opt/openfhe-fork/include/openfhe/core -isystem /Users/emma/opt/openfhe-fork/include/openfhe/pke -isystem /Users/emma/opt/openfhe-fork/include/openfhe/binfhe -O3 -DNDEBUG -std=c++17 -arch arm64 -Wall -Werror -DOPENFHE_VERSION=1.6.0 -O3 -DMATHBACKEND=4 -Xpreprocessor -fopenmp -lomp -Wno-unused-command-line-argument -o CMakeFiles/noise_sim.dir/src/noise_simulations/param_sweep.cpp.o -c /Users/emma/Desktop/HEandECC/HEwithRScodes/src/noise_simulations/param_sweep.cpp",
+  "file": "/Users/emma/Desktop/HEandECC/HEwithRScodes/src/noise_simulations/param_sweep.cpp",
+  "output": "CMakeFiles/noise_sim.dir/src/noise_simulations/param_sweep.cpp.o"
+},
+{
+  "directory": "/Users/emma/Desktop/HEandECC/HEwithRScodes/build",
+  "command": "/usr/bin/c++  -I/Users/emma/Desktop/HEandECC/HEwithRScodes/include -I/Users/emma/Desktop/HEandECC/HEwithRScodes/include/noise_simulations -isystem /opt/homebrew/opt/libomp/include -isystem /Users/emma/opt/openfhe-fork/include/openfhe -isystem /Users/emma/opt/openfhe-fork/include/openfhe/third-party/include -isystem /Users/emma/opt/openfhe-fork/include/openfhe/core -isystem /Users/emma/opt/openfhe-fork/include/openfhe/pke -isystem /Users/emma/opt/openfhe-fork/include/openfhe/binfhe -O3 -DNDEBUG -std=c++17 -arch arm64 -Wall -Werror -DOPENFHE_VERSION=1.6.0 -O3 -DMATHBACKEND=4 -Xpreprocessor -fopenmp -lomp -Wno-unused-command-line-argument -o CMakeFiles/HEwithRScodes.dir/main.cpp.o -c /Users/emma/Desktop/HEandECC/HEwithRScodes/main.cpp",
+  "file": "/Users/emma/Desktop/HEandECC/HEwithRScodes/main.cpp",
+  "output": "CMakeFiles/HEwithRScodes.dir/main.cpp.o"
+},
+{
+  "directory": "/Users/emma/Desktop/HEandECC/HEwithRScodes/build/tests",
+  "command": "/usr/bin/c++  -I/Users/emma/Desktop/HEandECC/HEwithRScodes/tests/../../../HEwithRScodes/tests -I/Users/emma/Desktop/HEandECC/HEwithRScodes/include -O3 -DNDEBUG -std=c++17 -arch arm64 -Wall -Wextra -o CMakeFiles/test_field.dir/test_field.cpp.o -c /Users/emma/Desktop/HEandECC/HEwithRScodes/tests/test_field.cpp",
+  "file": "/Users/emma/Desktop/HEandECC/HEwithRScodes/tests/test_field.cpp",
+  "output": "tests/CMakeFiles/test_field.dir/test_field.cpp.o"
+},
+{
+  "directory": "/Users/emma/Desktop/HEandECC/HEwithRScodes/build/tests",
+  "command": "/usr/bin/c++  -I/Users/emma/Desktop/HEandECC/HEwithRScodes/tests/../../../HEwithRScodes/tests -I/Users/emma/Desktop/HEandECC/HEwithRScodes/include -O3 -DNDEBUG -std=c++17 -arch arm64 -Wall -Wextra -o CMakeFiles/test_rs_code.dir/test_rs_code.cpp.o -c /Users/emma/Desktop/HEandECC/HEwithRScodes/tests/test_rs_code.cpp",
+  "file": "/Users/emma/Desktop/HEandECC/HEwithRScodes/tests/test_rs_code.cpp",
+  "output": "tests/CMakeFiles/test_rs_code.dir/test_rs_code.cpp.o"
+},
+{
+  "directory": "/Users/emma/Desktop/HEandECC/HEwithRScodes/build/tests",
+  "command": "/usr/bin/c++  -I/Users/emma/Desktop/HEandECC/HEwithRScodes/tests/../../../HEwithRScodes/tests -I/Users/emma/Desktop/HEandECC/HEwithRScodes/include -O3 -DNDEBUG -std=c++17 -arch arm64 -Wall -Wextra -o CMakeFiles/test_welch_berlekamp.dir/test_welch_berlekamp.cpp.o -c /Users/emma/Desktop/HEandECC/HEwithRScodes/tests/test_welch_berlekamp.cpp",
+  "file": "/Users/emma/Desktop/HEandECC/HEwithRScodes/tests/test_welch_berlekamp.cpp",
+  "output": "tests/CMakeFiles/test_welch_berlekamp.dir/test_welch_berlekamp.cpp.o"
+},
+{
+  "directory": "/Users/emma/Desktop/HEandECC/HEwithRScodes/build/tests",
+  "command": "/usr/bin/c++  -I/Users/emma/Desktop/HEandECC/HEwithRScodes/tests/../../../HEwithRScodes/tests -I/Users/emma/Desktop/HEandECC/HEwithRScodes/include -O3 -DNDEBUG -std=c++17 -arch arm64 -Wall -Wextra -o CMakeFiles/test_poly_fast.dir/test_poly_fast.cpp.o -c /Users/emma/Desktop/HEandECC/HEwithRScodes/tests/test_poly_fast.cpp",
+  "file": "/Users/emma/Desktop/HEandECC/HEwithRScodes/tests/test_poly_fast.cpp",
+  "output": "tests/CMakeFiles/test_poly_fast.dir/test_poly_fast.cpp.o"
+},
+{
+  "directory": "/Users/emma/Desktop/HEandECC/HEwithRScodes/build/tests",
+  "command": "/usr/bin/c++  -I/Users/emma/Desktop/HEandECC/HEwithRScodes/tests/../../../HEwithRScodes/tests -I/Users/emma/Desktop/HEandECC/HEwithRScodes/include -O3 -DNDEBUG -std=c++17 -arch arm64 -Wall -Wextra -o CMakeFiles/test_fast_gcd.dir/test_fast_gcd.cpp.o -c /Users/emma/Desktop/HEandECC/HEwithRScodes/tests/test_fast_gcd.cpp",
+  "file": "/Users/emma/Desktop/HEandECC/HEwithRScodes/tests/test_fast_gcd.cpp",
+  "output": "tests/CMakeFiles/test_fast_gcd.dir/test_fast_gcd.cpp.o"
+}
+]

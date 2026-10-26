@@ -1,0 +1,3 @@
+label,ringDim,multDepth,firstModSize,scalingModSize,sigma,plaintextModulus,secure,numLargeDigits
+calib n=16384 sigma=3.19 p=65537,16384,3,55,58,3.19,65537,0,0
+calib n=32768 sigma=3.19 p=65537,32768,3,57,59,3.19,65537,0,0

@@ -1,0 +1,2 @@
+/usr/bin/ar qc librs_decoders.a CMakeFiles/rs_decoders.dir/src/rs/decoders/welch_berlekamp.cpp.o CMakeFiles/rs_decoders.dir/src/rs/decoders/fast_gcd.cpp.o CMakeFiles/rs_decoders.dir/src/rs/decoders/registry.cpp.o
+/usr/bin/ranlib librs_decoders.a

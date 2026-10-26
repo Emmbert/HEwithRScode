@@ -1,0 +1,102 @@
+Start testing: Oct 06 10:54 CEST
+----------------------------------------------------------
+1/8 Testing: test_field
+1/8 Test: test_field
+Command: "/Users/emma/Desktop/HEandECC/HEwithRScodes/build/tests/test_field"
+Directory: /Users/emma/Desktop/HEandECC/HEwithRScodes/build/tests
+"test_field" start time: Oct 06 10:54 CEST
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"test_field" end time: Oct 06 10:54 CEST
+"test_field" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/8 Testing: test_rs_code
+2/8 Test: test_rs_code
+Command: "/Users/emma/Desktop/HEandECC/HEwithRScodes/build/tests/test_rs_code"
+Directory: /Users/emma/Desktop/HEandECC/HEwithRScodes/build/tests
+"test_rs_code" start time: Oct 06 10:54 CEST
+Output:
+----------------------------------------------------------
+[DONE] Negacyclic RS(8, 4) over GF(17), psi = 3, d = 5, t = 2, R = 0.5
+[DONE] Negacyclic RS(16, 8) over GF(97), psi = 28, d = 9, t = 4, R = 0.5
+[DONE] Negacyclic RS(256, 128) over GF(7681), psi = 7146, d = 129, t = 64, R = 0.5
+[DONE] Negacyclic RS(4096, 2048) over GF(40961), psi = 243, d = 2049, t = 1024, R = 0.5
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"test_rs_code" end time: Oct 06 10:54 CEST
+"test_rs_code" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/8 Testing: test_welch_berlekamp
+3/8 Test: test_welch_berlekamp
+Command: "/Users/emma/Desktop/HEandECC/HEwithRScodes/build/tests/test_welch_berlekamp"
+Directory: /Users/emma/Desktop/HEandECC/HEwithRScodes/build/tests
+"test_welch_berlekamp" start time: Oct 06 10:54 CEST
+Output:
+----------------------------------------------------------
+[PASS] Welch-Berlekamp on Negacyclic RS(8, 4) over GF(17), psi = 3, d = 5, t = 2, R = 0.5 (700 trials)
+[PASS] Welch-Berlekamp on Negacyclic RS(8, 1) over GF(17), psi = 3, d = 8, t = 3, R = 0.125 (400 trials)
+[PASS] Welch-Berlekamp on Negacyclic RS(8, 8) over GF(17), psi = 3, d = 1, t = 0, R = 1 (30 trials)
+[PASS] Welch-Berlekamp on Negacyclic RS(16, 8) over GF(97), psi = 28, d = 9, t = 4, R = 0.5 (450 trials)
+[PASS] Welch-Berlekamp on Negacyclic RS(16, 15) over GF(97), psi = 28, d = 2, t = 0, R = 0.9375 (150 trials)
+[PASS] Welch-Berlekamp on Negacyclic RS(256, 224) over GF(7681), psi = 7146, d = 33, t = 16, R = 0.875 (420 trials)
+[PASS] Welch-Berlekamp on Negacyclic RS(256, 128) over GF(7681), psi = 7146, d = 129, t = 64, R = 0.5 (120 trials)
+[PASS] Welch-Berlekamp on Negacyclic RS(1024, 512) over GF(12289), psi = 1945, d = 513, t = 256, R = 0.5 (24 trials)
+<end of output>
+Test time =   0.32 sec
+----------------------------------------------------------
+Test Passed.
+"test_welch_berlekamp" end time: Oct 06 10:54 CEST
+"test_welch_berlekamp" time elapsed: 00:00:00
+----------------------------------------------------------
+
+4/8 Testing: test_poly_fast
+4/8 Test: test_poly_fast
+Command: "/Users/emma/Desktop/HEandECC/HEwithRScodes/build/tests/test_poly_fast"
+Directory: /Users/emma/Desktop/HEandECC/HEwithRScodes/build/tests
+"test_poly_fast" start time: Oct 06 10:54 CEST
+Output:
+----------------------------------------------------------
+p = 17, max NTT length = 16
+p = 7681, max NTT length = 512
+p = 40961, max NTT length = 8192
+p = 65537, max NTT length = 65536
+<end of output>
+Test time =   0.33 sec
+----------------------------------------------------------
+Test Passed.
+"test_poly_fast" end time: Oct 06 10:54 CEST
+"test_poly_fast" time elapsed: 00:00:00
+----------------------------------------------------------
+
+5/8 Testing: test_fast_gcd
+5/8 Test: test_fast_gcd
+Command: "/Users/emma/Desktop/HEandECC/HEwithRScodes/build/tests/test_fast_gcd"
+Directory: /Users/emma/Desktop/HEandECC/HEwithRScodes/build/tests
+"test_fast_gcd" start time: Oct 06 10:54 CEST
+Output:
+----------------------------------------------------------
+[PASS] Gao (fast Half-GCD) on Negacyclic RS(8, 4) over GF(17), psi = 3, d = 5, t = 2, R = 0.5 (700 trials)
+[PASS] Gao (fast Half-GCD) on Negacyclic RS(8, 1) over GF(17), psi = 3, d = 8, t = 3, R = 0.125 (400 trials)
+[PASS] Gao (fast Half-GCD) on Negacyclic RS(8, 8) over GF(17), psi = 3, d = 1, t = 0, R = 1 (30 trials)
+[PASS] Gao (fast Half-GCD) on Negacyclic RS(16, 8) over GF(97), psi = 28, d = 9, t = 4, R = 0.5 (450 trials)
+[PASS] Gao (fast Half-GCD) on Negacyclic RS(16, 15) over GF(97), psi = 28, d = 2, t = 0, R = 0.9375 (150 trials)
+[PASS] Gao (fast Half-GCD) on Negacyclic RS(256, 224) over GF(7681), psi = 7146, d = 33, t = 16, R = 0.875 (420 trials)
+[PASS] Gao (fast Half-GCD) on Negacyclic RS(256, 128) over GF(7681), psi = 7146, d = 129, t = 64, R = 0.5 (120 trials)
+[PASS] Gao (fast Half-GCD) on Negacyclic RS(256, 2) over GF(7681), psi = 7146, d = 255, t = 127, R = 0.0078125 (120 trials)
+[PASS] Gao (fast Half-GCD) on Negacyclic RS(1024, 512) over GF(12289), psi = 1945, d = 513, t = 256, R = 0.5 (36 trials)
+<end of output>
+Test time =   0.10 sec
+----------------------------------------------------------
+Test Passed.
+"test_fast_gcd" end time: Oct 06 10:54 CEST
+"test_fast_gcd" time elapsed: 00:00:00
+----------------------------------------------------------
+

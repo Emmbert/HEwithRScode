@@ -1,0 +1,9 @@
+id,label,status,ringDim,log2Q,numTowers,sigma,plaintextModulus,multDepth,firstModSize,scalingModSize,secure,modReduce,numChains,maxMults,growthFile,histFile,numLargeDigits,log2P
+p00,"K5 f=50% n=16384 sigma=3.380",ok,16384,142.0,3,3.38,65537,2,46,48,1,0,10,6,p00_growth.csv,p00_hist.csv,3,60.0
+p01,"K5 f=10% n=16384 sigma=3.270",ok,16384,143.0,3,3.27,65537,2,47,48,1,0,10,6,p01_growth.csv,p01_hist.csv,3,60.0
+p02,"K5 f=25% n=16384 sigma=3.471",ok,16384,143.0,3,3.471,65537,2,47,48,1,0,10,6,p02_growth.csv,p02_hist.csv,3,60.0
+p03,"K5 base n=16384 sigma=3.190",ok,16384,146.0,3,3.19,65537,2,48,49,1,0,10,6,p03_growth.csv,p03_hist.csv,3,60.0
+p04,"K5 f=50% n=32768 sigma=3.202",ok,32768,144.0,3,3.202,65537,2,48,48,1,0,10,6,p04_growth.csv,p04_hist.csv,3,60.0
+p05,"K5 f=25% n=32768 sigma=3.288",ok,32768,145.0,3,3.288,65537,2,47,49,1,0,10,6,p05_growth.csv,p05_hist.csv,3,60.0
+p06,"K5 f=10% n=32768 sigma=3.477",ok,32768,146.0,3,3.477,65537,2,48,49,1,0,10,6,p06_growth.csv,p06_hist.csv,3,60.0
+p07,"K5 base n=32768 sigma=3.190",ok,32768,149.0,3,3.19,65537,2,49,50,1,0,10,6,p07_growth.csv,p07_hist.csv,3,60.0

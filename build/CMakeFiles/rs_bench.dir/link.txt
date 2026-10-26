@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/rs_bench.dir/apps/rs_bench.cpp.o -o rs_bench  librs_decoders.a librs_harness.a librs_core.a
